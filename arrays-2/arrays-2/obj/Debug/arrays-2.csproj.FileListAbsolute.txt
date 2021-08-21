@@ -1,0 +1,6 @@
+D:\c#-assignment\arrays-2\arrays-2\bin\Debug\arrays-2.exe.config
+D:\c#-assignment\arrays-2\arrays-2\bin\Debug\arrays-2.exe
+D:\c#-assignment\arrays-2\arrays-2\bin\Debug\arrays-2.pdb
+D:\c#-assignment\arrays-2\arrays-2\obj\Debug\arrays-2.csproj.CoreCompileInputs.cache
+D:\c#-assignment\arrays-2\arrays-2\obj\Debug\arrays-2.exe
+D:\c#-assignment\arrays-2\arrays-2\obj\Debug\arrays-2.pdb
