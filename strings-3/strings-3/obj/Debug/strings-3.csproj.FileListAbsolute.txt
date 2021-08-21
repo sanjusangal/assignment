@@ -1,0 +1,7 @@
+D:\c#-assignment\strings-3\strings-3\obj\Debug\strings-3.csproj.CoreCompileInputs.cache
+D:\c#-assignment\strings-3\strings-3\obj\Debug\strings-3.csprojResolveAssemblyReference.cache
+D:\c#-assignment\strings-3\strings-3\bin\Debug\strings-3.exe.config
+D:\c#-assignment\strings-3\strings-3\bin\Debug\strings-3.exe
+D:\c#-assignment\strings-3\strings-3\bin\Debug\strings-3.pdb
+D:\c#-assignment\strings-3\strings-3\obj\Debug\strings-3.exe
+D:\c#-assignment\strings-3\strings-3\obj\Debug\strings-3.pdb
