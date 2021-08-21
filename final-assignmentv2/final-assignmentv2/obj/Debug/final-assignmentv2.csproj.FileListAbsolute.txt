@@ -1,0 +1,7 @@
+D:\c#-assignment\final-assignmentv2\final-assignmentv2\bin\Debug\final-assignmentv2.exe.config
+D:\c#-assignment\final-assignmentv2\final-assignmentv2\bin\Debug\final-assignmentv2.exe
+D:\c#-assignment\final-assignmentv2\final-assignmentv2\bin\Debug\final-assignmentv2.pdb
+D:\c#-assignment\final-assignmentv2\final-assignmentv2\obj\Debug\final-assignmentv2.csprojResolveAssemblyReference.cache
+D:\c#-assignment\final-assignmentv2\final-assignmentv2\obj\Debug\final-assignmentv2.csproj.CoreCompileInputs.cache
+D:\c#-assignment\final-assignmentv2\final-assignmentv2\obj\Debug\final-assignmentv2.exe
+D:\c#-assignment\final-assignmentv2\final-assignmentv2\obj\Debug\final-assignmentv2.pdb
