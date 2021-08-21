@@ -1,0 +1,7 @@
+D:\c#-assignment\loops-3\loops-3\bin\Debug\loops-3.exe.config
+D:\c#-assignment\loops-3\loops-3\bin\Debug\loops-3.exe
+D:\c#-assignment\loops-3\loops-3\bin\Debug\loops-3.pdb
+D:\c#-assignment\loops-3\loops-3\obj\Debug\loops-3.csprojResolveAssemblyReference.cache
+D:\c#-assignment\loops-3\loops-3\obj\Debug\loops-3.csproj.CoreCompileInputs.cache
+D:\c#-assignment\loops-3\loops-3\obj\Debug\loops-3.exe
+D:\c#-assignment\loops-3\loops-3\obj\Debug\loops-3.pdb
