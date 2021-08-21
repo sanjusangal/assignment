@@ -1,0 +1,7 @@
+D:\c#-intermediate-assignment\inheritance-1\inheritance-1\bin\Debug\inheritance-1.exe.config
+D:\c#-intermediate-assignment\inheritance-1\inheritance-1\bin\Debug\inheritance-1.exe
+D:\c#-intermediate-assignment\inheritance-1\inheritance-1\bin\Debug\inheritance-1.pdb
+D:\c#-intermediate-assignment\inheritance-1\inheritance-1\obj\Debug\inheritance-1.csprojResolveAssemblyReference.cache
+D:\c#-intermediate-assignment\inheritance-1\inheritance-1\obj\Debug\inheritance-1.csproj.CoreCompileInputs.cache
+D:\c#-intermediate-assignment\inheritance-1\inheritance-1\obj\Debug\inheritance-1.exe
+D:\c#-intermediate-assignment\inheritance-1\inheritance-1\obj\Debug\inheritance-1.pdb
