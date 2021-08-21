@@ -1,0 +1,7 @@
+D:\c#-assignment\conditional-3\conditional-3\obj\Debug\conditional-3.csprojResolveAssemblyReference.cache
+D:\c#-assignment\conditional-3\conditional-3\obj\Debug\conditional-3.csproj.CoreCompileInputs.cache
+D:\c#-assignment\conditional-3\conditional-3\bin\Debug\conditional-3.exe.config
+D:\c#-assignment\conditional-3\conditional-3\bin\Debug\conditional-3.exe
+D:\c#-assignment\conditional-3\conditional-3\bin\Debug\conditional-3.pdb
+D:\c#-assignment\conditional-3\conditional-3\obj\Debug\conditional-3.exe
+D:\c#-assignment\conditional-3\conditional-3\obj\Debug\conditional-3.pdb
